@@ -1,0 +1,51 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui"
+	xmlns:l="urn:import:com.sfeir.labs.client.Layout">
+	<ui:style>
+		.titreD{
+			color: #333333;
+		    font-weight: bold;
+		    text-align: center;
+		    text-rendering: optimizelegibility;
+	    }
+	</ui:style>
+	<g:HTMLPanel>
+    	<div class="navbar navbar-fixed-top">
+      		<div class="navbar-inner">
+        		<div class="container-fluid">
+         		 <h4 class="brand">Budget Français 2011</h4>
+        		</div>
+      		</div>
+ 		</div>
+		<div style="padding-top:50px;" class="container-fluid well"> 
+	  			<div class="row-fluid">
+	  				<div class="span6">
+	  					<g:Label ui:field="titreG" styleName='{style.titreD}'></g:Label>
+						<l:GrapheG ui:field="grapheG"></l:GrapheG>
+ 					 	<l:CommentsThread ui:field="commentsThread"></l:CommentsThread> 
+
+						<div id="disqus_thread"></div>
+						
+						<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+
+	  				</div>
+					<div class="span6">
+						<g:Label ui:field="titreD" styleName='{style.titreD}'></g:Label>
+		   				<l:GrapheD ui:field="grapheD"></l:GrapheD>
+		   				<div class="span6" >
+		   					<g:ScrollPanel ui:field="legende"></g:ScrollPanel>
+		   				</div>
+					</div> 
+				</div>	
+    	 </div>	
+    			
+  	<hr />
+	<footer>
+		<p>&copy; SFEIR 2012</p>
+<!-- 		<g:HTMLPanel ui:field="image"></g:HTMLPanel> -->
+	</footer>
+   
+ 
+	</g:HTMLPanel>
+</ui:UiBinder> 

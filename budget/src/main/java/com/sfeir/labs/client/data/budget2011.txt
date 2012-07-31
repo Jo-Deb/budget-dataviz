@@ -1,0 +1,124 @@
+1;Affaires étrangères;105;Action de la France en Europe et dans le monde;548022669;1252585164;1800607833;548022669;1265485510;1813508179
+1;Affaires étrangères;151;Français à l'étranger et affaires consulaires;190896508;152642275;343538783;190896508;152630943;343527451
+1;Affaires étrangères;185;Diplomatie culturelle et d'influence;88091824;670514015;758605839;88091824;670464195;758556019
+1;Affaires étrangères;209;Solidarité à l'égard des pays en développement;221377202;1831783103;2053160305;221377202;1912653900;2134031102
+1;Affaires étrangères;332;Présidence française du G20 et du G8;0;59951546;59951546;0;49955901;49955901
+2;Culture;131;Création;0;753119598;753119598;0;736807906;736807906
+2;Culture;175;Patrimoines;0;848932087;848932087;0;868792755;868792755
+2;Culture;180;Presse;0;421477426;421477426;0;419922560;419922560
+2;Culture;186;Recherche culturelle et culture scientifique;0;125334645;125334645;0;125025844;125025844
+2;Culture;224;Transmission des savoirs et démocratisation de la culture;634203342;481121917;1115325259;634203342;442251824;1076455166
+2;Culture;313;Contribution à l'audiovisuel et à la diversité radiophonique;0;524000918;524000918;0;523959999;523959999
+2;Culture;334;Livre et industries culturelles;0;298823043;298823043;0;303823043;303823043
+3;Agriculture;112;Impulsion et coordination de la politique d'aménagement du territoire;10271974;292369040;302641014;10271974;276512901;286784875
+3;Agriculture;142;Enseignement supérieur et recherche agricoles;178521272;119003819;297525091;178521272;121514732;300036004
+3;Agriculture;143;Enseignement technique agricole;819636251;477134380;1296770631;819636251;471343928;1290980179
+3;Agriculture;149;Forêt;0;359841182;359841182;0;371016365;371016365
+3;Agriculture;154;Économie et développement durable de l'agriculture, de la pêche et des territoires;0;1974272374;1974272374;0;2030789756;2030789756
+3;Agriculture;206;Sécurité et qualité sanitaires de l'alimentation;270223505;234626636;504850141;270223505;239254353;509477858
+3;Agriculture;215;Conduite et pilotage des politiques de l'agriculture;651943666;92415722;744359388;651943666;105902164;757845830
+6;Éducation;139;Enseignement privé du premier et du second degrés;6339469799;746788410;7086258209;6339469799;746732830;7086202629
+6;Éducation;140;Enseignement scolaire public du premier degré;17992044010;49337851;18041381861;17992044010;49334190;18041378200
+6;Éducation;141;Enseignement scolaire public du second degré;29262954828;151723966;29414678794;29262954828;151712669;29414667497
+6;Éducation;163;Jeunesse et vie associative;0;213515072;213515072;0;213499268;213499268
+6;Éducation;214;Soutien de la politique de l'éducation nationale;1343465021;773442040;2116907061;1343465021;733113619;2076578640
+6;Éducation;230;Vie de l'élève;1770799984;2178449086;3949249070;1770799984;2113825464;3884625448
+7;Budget;148;Fonction publique;250000;220851208;221101208;250000;220475927;220725927
+7;Budget;156;Gestion fiscale et financière de l'État et du secteur public local;6990296236;1473708162;8464004398;6990296236;1460371705;8450667941
+7;Budget;195;Régimes de retraite des mines, de la SEITA et divers;0;1353490000;1353490000;0;1353490000;1353490000
+7;Budget;200;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);0;71024556000;71024556000;0;71024556000;71024556000
+7;Budget;201;Remboursements et dégrèvements d'impôts locaux (crédits évaluatifs);0;11128000000;11128000000;0;11128000000;11128000000
+7;Budget;218;Conduite et pilotage des politiques économique et financière;423918725;501537563;925456288;423918725;484616755;908535480
+7;Budget;221;Stratégie des finances publiques et modernisation de l'État;94114116;197093170;291207286;94114116;250560672;344674788
+7;Budget;302;Facilitation et sécurisation des échanges;1096586784;509068918;1605655702;1096586784;510805379;1607392163
+7;Budget;309;Entretien des bâtiments de l'État;0;214866282;214866282;0;215162925;215162925
+7;Budget;501;Présidence de la République;0;112298700;112298700;0;112298700;112298700
+7;Budget;511;Assemblée nationale;0;533910000;533910000;0;533910000;533910000
+7;Budget;521;Sénat;0;327694000;327694000;0;327694000;327694000
+7;Budget;531;Conseil constitutionnel;0;11070000;11070000;0;11070000;11070000
+7;Budget;532;Haute Cour;0;0;0;0;0;0
+7;Budget;533;Cour de justice de la République;0;817450;817450;0;817450;817450
+7;Budget;541;La chaîne parlementaire;0;32125000;32125000;0;32125000;32125000
+7;Budget;542;Indemnités des représentants français au Parlement européen;0;0;0;0;0;0
+7;Budget;551;Provision relative aux rémunérations publiques;0;0;0;0;0;0
+7;Budget;552;Dépenses accidentelles et imprévisibles;0;34066098;34066098;0;34066098;34066098
+9;Intérieur;104;Intégration et accès à la nationalité française;0;72843359;72843359;0;72837936;72837936
+9;Intérieur;119;Concours financiers aux communes et groupements de communes;0;815256264;815256264;0;775923007;775923007
+9;Intérieur;120;Concours financiers aux départements;0;491706215;491706215;0;491706215;491706215
+9;Intérieur;121;Concours financiers aux régions;0;894680275;894680275;0;894680275;894680275
+9;Intérieur;122;Concours spécifiques et administration;0;483426429;483426429;0;476534429;476534429
+9;Intérieur;123;Conditions de vie outre-mer;0;805092042;805092042;0;646745281;646745281
+9;Intérieur;128;Coordination des moyens de secours;0;200241404;200241404;0;170113760;170113760
+9;Intérieur;138;Emploi outre-mer;110371766;1240457467;1350829233;110371766;1220152931;1330524697
+9;Intérieur;152;Gendarmerie nationale;6494165941;1172334921;7666500862;6494165941;1227919221;7722085162
+9;Intérieur;161;Intervention des services opérationnels;155952199;103566696;259518895;155952199;108792364;264744563
+9;Intérieur;176;Police nationale;8118067264;1019645949;9137713213;8118067264;965280147;9083347411
+9;Intérieur;207;Sécurité et circulation routières;0;57614436;57614436;0;57610145;57610145
+9;Intérieur;216;Conduite et pilotage des politiques de l'intérieur;328809911;370839742;699649653;328809911;282360943;611170854
+9;Intérieur;232;Vie politique, cultuelle et associative;18219928;172851446;191071374;18219928;166550739;184770667
+9;Intérieur;301;Développement solidaire et migrations;0;29975773;29975773;0;29973541;29973541
+9;Intérieur;303;Immigration et asile;39923712;450957368;490881080;39923712;448707368;488631080
+9;Intérieur;307;Administration territoriale;1435932254;243845955;1679778209;1435932254;217682935;1653615189
+10;Justice;101;Accès au droit et à la justice;0;388037825;388037825;0;331337825;331337825
+10;Justice;107;Administration pénitentiaire;1809828599;1470187397;3280015996;1809828599;1011963322;2821791921
+10;Justice;166;Justice judiciaire;2036702415;2246811889;4283514304;2036702415;923562716;2960265131
+10;Justice;182;Protection judiciaire de la jeunesse;428198453;329468534;757666987;428198453;329443998;757642451
+10;Justice;310;Conduite et pilotage de la politique de la justice;100025281;147915537;247940818;100025281;167018654;267043935
+12;Premier ministre;115;Action audiovisuelle extérieure;0;206519846;206519846;0;206504467;206504467
+12;Premier ministre;126;Conseil économique, social et environnemental;30797421;6705000;37502421;30797421;6705000;37502421
+12;Premier ministre;129;Coordination du travail gouvernemental;244511848;342378458;586890306;244511848;334886386;579398234
+12;Premier ministre;158;Indemnisation des victimes des persécutions antisémites et des actes de barbarie pendant la seconde guerre mondiale;2001165;113648919;115650084;2001165;112964898;114966063
+12;Premier ministre;162;Interventions territoriales de l'État;0;47642972;47642972;0;34870557;34870557
+12;Premier ministre;164;Cour des comptes et autres juridictions financières;181405829;48384812;229790641;181405829;32784812;214190641
+12;Premier ministre;165;Conseil d'État et autres juridictions administratives;275947207;72312570;348259777;275947207;62050192;337997399
+12;Premier ministre;308;Protection des droits et libertés;52856597;94463588;147320185;52856597;38350773;91207370
+12;Premier ministre;333;Moyens mutualisés des administrations déconcentrées;0;790827065;790827065;0;438579069;438579069
+23;Écologie;109;Aide à l'accès au logement;0;5301389585;5301389585;0;5301389585;5301389585
+23;Écologie;113;Urbanisme, paysages, eau et biodiversité;0;350077423;350077423;0;345285247;345285247
+23;Écologie;135;Développement et amélioration de l'offre de logement;0;541972254;541972254;0;501965982;501965982
+23;Écologie;159;Information géographique et cartographique;0;81942889;81942889;0;81936787;81936787
+23;Écologie;170;Météorologie;0;198289738;198289738;0;198274971;198274971
+23;Écologie;174;Énergie, climat et après-mines;0;741012543;741012543;0;751528239;751528239
+23;Écologie;177;Prévention de l'exclusion et insertion des personnes vulnérables;0;1204166797;1204166797;0;1204166797;1204166797
+23;Écologie;181;Prévention des risques;38800000;334506260;373306260;38800000;264543089;303343089
+23;Écologie;190;Recherche dans les domaines de lénergie, du développement et de l'aménagement durables;0;1332094807;1332094807;0;1371173467;1371173467
+23;Écologie;197;Régimes de retraite et de sécurité sociale des marins;0;797278279;797278279;0;797278279;797278279
+23;Écologie;198;Régimes sociaux et de retraite des transports terrestres;0;3877046488;3877046488;0;3876757761;3876757761
+23;Écologie;203;Infrastructures et services de transports;0;4291709768;4291709768;0;4060339281;4060339281
+23;Écologie;205;Sécurité et affaires maritimes;0;129678229;129678229;0;132056048;132056048
+23;Écologie;217;Conduite et pilotage des politiques de l'écologie, de l'énergie, du développement durable et de la mer;3219650290;573786319;3793436609;3219650290;362109115;3581759405
+36;TravailEmploiSanté;102;Accès et retour à l'emploi;0;6864029885;6864029885;0;6199147218;6199147218
+36;TravailEmploiSanté;103;Accompagnement des mutations économiques et développement de l'emploi;0;4493135309;4493135309;0;4544262719;4544262719
+36;TravailEmploiSanté;111;Amélioration de la qualité de l'emploi et des relations du travail;0;139305493;139305493;0;86932088;86932088
+36;TravailEmploiSanté;124;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;779824217;748055106;1527879323;779824217;745218154;1525042371
+36;TravailEmploiSanté;155;Conception, gestion et évaluation des politiques de l'emploi et du travail;592510540;260837452;853347992;592510540;152014074;744524614
+36;TravailEmploiSanté;183;Protection maladie;0;638009500;638009500;0;638009500;638009500
+36;TravailEmploiSanté;204;Prévention, sécurité sanitaire et offre de soins;0;583621690;583621690;0;583578279;583578279
+38;Enseign sup et rech;150;Formations supérieures et recherche universitaire;1592911187;10886909254;12479820441;1592911187;10679192617;12272103804
+38;Enseign sup et rech;172;Recherches scientifiques et technologiques pluridisciplinaires;0;5124607129;5124607129;0;5124225228;5124225228
+38;Enseign sup et rech;187;Recherche dans le domaine de la gestion des milieux et des ressources;0;1244058803;1244058803;0;1243966157;1243966157
+38;Enseign sup et rech;193;Recherche spatiale;0;1392128045;1392128045;0;1392024372;1392024372
+38;Enseign sup et rech;231;Vie étudiante;0;2080046559;2080046559;0;2082299549;2082299549
+39;Ville;147;Politique de la ville et Grand Paris;0;624260883;624260883;0;624314789;624314789
+52;Sports;219;Sport;0;205073565;205073565;0;216565118;216565118
+56;Solidarités;106;Actions en faveur des familles vulnérables;0;242589877;242589877;0;242572625;242572625
+56;Solidarités;137;Égalité entre les hommes et les femmes;0;21161635;21161635;0;21160248;21160248
+56;Solidarités;157;Handicap et dépendance;0;9888010998;9888010998;0;9885010998;9885010998
+56;Solidarités;304;Lutte contre la pauvreté : revenu de solidarité active et expérimentations sociales;0;691972164;691972164;0;691919704;691919704
+57;Économie;110;Aide économique et financière au développement;0;2491991481;2491991481;0;1170108561;1170108561
+57;Économie;114;Appels en garantie de l'État (crédits évaluatifs);0;227300000;227300000;0;227300000;227300000
+57;Économie;117;Charge de la dette et trésorerie de l'État (crédits évaluatifs);0;45382000000;45382000000;0;45382000000;45382000000
+57;Économie;134;Développement des entreprises et de l'emploi;419202774;662681807;1081884581;419202774;673415797;1092618571
+57;Économie;145;Épargne;0;1121513783;1121513783;0;1121513783;1121513783
+57;Économie;168;Majoration de rentes;0;195094301;195094301;0;195010848;195010848
+57;Économie;192;Recherche et enseignement supérieur en matière économique et industrielle;99752400;987258721;1087011121;99752400;976294818;1076047218
+57;Économie;220;Statistiques et études économiques;367322803;70573864;437896667;367322803;67271521;434594324
+57;Économie;223;Tourisme;0;52874412;52874412;0;50972181;50972181
+57;Économie;305;Stratégie économique et fiscale;146197740;339032101;485229841;146197740;339005133;485202873
+70;Défense;144;Environnement et prospective de la politique de défense;569087651;1271821236;1840908887;569087651;1222451021;1791538672
+70;Défense;146;Équipement des forces;1869692673;11323960219;13193652892;1869692673;8842360836;10712053509
+70;Défense;167;Liens entre la nation et son armée;101696295;25656749;127353044;101696295;32578727;134275022
+70;Défense;169;Reconnaissance et réparation en faveur du monde combattant;12345468;3057833670;3070179138;12345468;3057833670;3070179138
+70;Défense;178;Préparation et emploi des forces;15491300987;7072856314;22564157301;15491300987;6400131109;21891432096
+70;Défense;191;Recherche duale (civile et militaire);0;196709760;196709760;0;196695111;196695111
+70;Défense;212;Soutien de la politique de la défense;1031717235;3342279688;4373996923;1031717235;1982342945;3014060180
